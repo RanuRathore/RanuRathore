@@ -11,7 +11,7 @@ namespace dummyproject
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            lbl_message.Text = "Hello,this is a dummy website. Here is i make some changes to create second branch on github";
         }
     }
 }
